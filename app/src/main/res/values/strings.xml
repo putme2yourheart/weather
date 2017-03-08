@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shift天气</string>
+
+    <string name="day_1">今天</string>
+    <string name="day_2">明天</string>
+    <string name="day_3">后天</string>
+</resources>
